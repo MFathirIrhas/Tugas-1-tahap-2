@@ -1,0 +1,63 @@
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe.config
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csprojResolveAssemblyReference.cache
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Form1.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Properties.Resources.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csproj.GenerateResource.Cache
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe.config
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csprojResolveAssemblyReference.cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Form1.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Properties.Resources.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csproj.GenerateResource.Cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe.config
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csprojResolveAssemblyReference.cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Form1.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Properties.Resources.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csproj.GenerateResource.Cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe.config
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csprojResolveAssemblyReference.cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Form1.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Properties.Resources.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csproj.GenerateResource.Cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe.config
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csprojResolveAssemblyReference.cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Form1.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Properties.Resources.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 2 tahap 2\Backup2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csproj.GenerateResource.Cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe.config
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csprojResolveAssemblyReference.cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Form1.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Properties.Resources.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csproj.GenerateResource.Cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe.config
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.exe
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\bin\Debug\Tugas1_Sisrek.pdb
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csprojResolveAssemblyReference.cache
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Form1.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.Properties.Resources.resources
+F:\College\Semester 7\Matkul\SISREK\Tugas Individu\Tugas 1\Tugas 1 tahap 2\[Tugas1Tahap2_1103120009_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\Tugas1_Sisrek\obj\Debug\Tugas1_Sisrek.csproj.GenerateResource.Cache
